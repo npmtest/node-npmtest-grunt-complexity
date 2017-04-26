@@ -26,7 +26,7 @@
 <tspan x="10" y="378">  │ │   │ └── signal-exit@3.0.2 </tspan>
 <tspan x="10" y="394">  │ │   ├── map-obj@1.0.1 </tspan>
 <tspan x="10" y="410">  │ │   ├── minimist@1.2.0 </tspan>
-<tspan x="10" y="426">  │ │   ├─┬ normalize-package-data@2.3.6 </tspan>
+<tspan x="10" y="426">  │ │   ├─┬ normalize-package-data@2.3.8 </tspan>
 <tspan x="10" y="442">  │ │   │ ├── hosted-git-info@2.4.2 </tspan>
 <tspan x="10" y="458">  │ │   │ ├─┬ is-builtin-module@1.0.0 </tspan>
 <tspan x="10" y="474">  │ │   │ │ └── builtin-modules@1.1.1 </tspan>
@@ -90,7 +90,7 @@
 <tspan x="10" y="1402">  │ │ ├── lodash@4.3.0 </tspan>
 <tspan x="10" y="1418">  │ │ └─┬ which@1.2.14 </tspan>
 <tspan x="10" y="1434">  │ │   └── isexe@2.0.0 </tspan>
-<tspan x="10" y="1450">  │ ├── iconv-lite@0.4.15 </tspan>
+<tspan x="10" y="1450">  │ ├── iconv-lite@0.4.16 </tspan>
 <tspan x="10" y="1466">  │ ├─┬ js-yaml@3.5.5 </tspan>
 <tspan x="10" y="1482">  │ │ ├─┬ argparse@1.0.9 </tspan>
 <tspan x="10" y="1498">  │ │ │ └── sprintf-js@1.0.3 </tspan>
@@ -104,7 +104,7 @@
 <tspan x="10" y="1626">  │ └── rimraf@2.2.8 </tspan>
 <tspan x="10" y="1642">  ├── lodash@4.17.4 </tspan>
 <tspan x="10" y="1658">  └─┬ typhonjs-escomplex@0.0.12 </tspan>
-<tspan x="10" y="1674">    ├── babylon@6.16.1 </tspan>
+<tspan x="10" y="1674">    ├── babylon@6.17.0 </tspan>
 <tspan x="10" y="1690">    ├─┬ commander@2.9.0 </tspan>
 <tspan x="10" y="1706">    │ └── graceful-readlink@1.0.1 </tspan>
 <tspan x="10" y="1722">    ├─┬ typhonjs-escomplex-module@0.0.12 </tspan>
